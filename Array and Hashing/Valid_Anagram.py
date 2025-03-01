@@ -26,6 +26,6 @@ print(isAnagram(s, t))
 # a = ("dssAa")
 # b = ("dssA")
 
-# x = sorted(b) == sorted(b)
+# x = sorted(a) == sorted(b)
 
 # print(x)
