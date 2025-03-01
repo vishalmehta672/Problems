@@ -21,3 +21,11 @@ s = "racecar"
 t = "carrace"
 
 print(isAnagram(s, t))
+
+
+# a = ("dssAa")
+# b = ("dssA")
+
+# x = sorted(b) == sorted(b)
+
+# print(x)
